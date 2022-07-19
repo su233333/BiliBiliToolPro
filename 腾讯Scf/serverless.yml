@@ -40,4 +40,5 @@ inputs:
           argument: UnfollowBatched
   environment:
     variables: # 根据自己的需要修改
-      Ray_BiliBiliCookies__1: 123 # cookie，必填
+      Ray_BiliBiliCookies__1: innersign=0; buvid3=D4F77683-7870-F905-EF22-182EDD1A882F91655infoc; i-wanna-go-back=-1; b_lsid=ECA278C4_18216342522; _uuid=AEDFD454-F1103-366B-3105E-12A4F53E759C92396infoc; bsource=search_sougo; buvid4=3D79D657-8364-E164-FC86-5862A3A75B2992639-022071919-t//eS7mgvdLj1Whrr7SWJA%3D%3D; b_timer=%7B%22ffp%22%3A%7B%22333.1007.fp.risk_D4F77683%22%3A%2218216342C92%22%2C%22333.42.fp.risk_D4F77683%22%3A%221821634411A%22%7D%7D; fingerprint=099cfdbdab5fd312f318d2f6db4512ff; buvid_fp=D4F77683-7870-F905-EF22-182EDD1A882F91655infoc; buvid_fp_plain=undefined; sid=5x9yjydo; DedeUserID=201235557; DedeUserID__ckMd5=b22fcf09a9116921; SESSDATA=ce0191c3%2C1673781923%2C0f85c*71; bili_jct=415814b8cce15967fc02bb567e6a89ec; bp_video_offset_201235557=684579720928428000; b_ut=5
+       
